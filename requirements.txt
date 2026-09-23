@@ -1,0 +1,12 @@
+pandas
+seaborn
+matplotlib
+numpy
+scikit-learn
+wordcloud
+nltk
+notebook
+ipykernel
+flask
+streamlit
+-e .
